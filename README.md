@@ -1,6 +1,5 @@
 # Weatherly - Real-Time Weather Application
 
-![Weatherly](https://via.placeholder.com/800x400?text=Weatherly+Banner)
 
 Weatherly is a simple and intuitive weather application that provides real-time weather updates for your current location or any searched city.
 
@@ -18,20 +17,7 @@ Weatherly is a simple and intuitive weather application that provides real-time 
 - **JavaScript** – Logic for fetching and displaying weather data.
 - **OpenWeather API** – Fetches real-time weather data.
 
-## 📷 Screenshots
 
-![Weatherly UI](https://via.placeholder.com/800x400?text=Weatherly+UI)
-
-## 📦 Repository Structure
-
-```
-weatherly/
-│── index.html      # Main HTML file
-│── style.css       # CSS file for styling
-│── index.js        # JavaScript file for logic
-│── assets/         # Images & icons (location.png, search.png, etc.)
-└── README.md       # Project documentation
-```
 
 ## 🛠️ Setup and Installation
 
@@ -76,5 +62,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-🚀 *Developed by [Your Name](https://github.com/bhavyatiwari1)* – Happy coding! 🎉
+🚀 *Developed by [Bhavya Tiwari](https://github.com/bhavyatiwari1)* – Happy coding! 🎉
 
